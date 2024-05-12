@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cadastro Professor</string>
+    <string name="app_title">Salario - Professor</string>
+    <string name="rb_profHorista">Horista</string>
+    <string name="rb_profTitular">Titular</string>
+    <string name="question_type">Qual tipo de professor?</string>
+    <string name="prof_name">Nome</string>
+    <string name="prof_cod">Matricula</string>
+    <string name="prof_age">Idade</string>
+
+    <string name="prof_anosT">Anos Instituição</string>
+    <string name="prof_salarioT">Salario Atual</string>
+
+    <string name="prof_horasH">Horas Trabalhadas</string>
+    <string name="prof_valorH">Valor da Hora</string>
+
+    <string name="placeHolder"> </string>
+    <string name="btnCad">Cadastrar</string>
+    <string name="btnCon">Salario</string>
+    <string name="output_1">Cadastro Realizado!</string>
+    <string name="output_2">Salario Atual: R$ %.2f</string>
+
+    <string name="empty_string">Não pode haver campos vázios!</string>
+    <string name="empty_register">Não há cadastros no momento!</string>
+
+</resources>
